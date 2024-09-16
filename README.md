@@ -1,2 +1,2 @@
 # Word Frequency Library Search Engine (Project Sample)
-TFIDF or Term Frequency Inverse Document Frequency is a statistical measure that assess the relevancy of a word to a document. In this repository, it has been implemented with Java to match a search query to the most relevant books that are stored in the file system. 
+Term Frequency-Inverse Document Frequency (TF-IDF) is a statistical method used to evaluate the relevance of a word within a document relative to a collection of documents. In this project, TF-IDF has been implemented in Java to efficiently match search queries to the most relevant books in a library containing thousands of titles, enhancing the accuracy and precision of search results.
